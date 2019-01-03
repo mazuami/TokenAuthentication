@@ -11,6 +11,7 @@ namespace TokenbasedAuthenticationV1
     {
         protected void Application_Start()
         {
+            IocConfig.Configure();
             GlobalConfiguration.Configure(WebApiConfig.Register);
         }
     }

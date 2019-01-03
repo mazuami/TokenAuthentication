@@ -82,3 +82,12 @@ C:\Users\Amit Mazumder\Desktop\Code\CSharpApps\TokenbasedAuthenticationV1\Tokenb
 C:\Users\Amit Mazumder\Desktop\Code\CSharpApps\TokenbasedAuthenticationV1\TokenbasedAuthenticationV1\bin\roslyn\System.Net.Sockets.dll
 C:\Users\Amit Mazumder\Desktop\Code\CSharpApps\TokenbasedAuthenticationV1\TokenbasedAuthenticationV1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
 C:\Users\Amit Mazumder\Desktop\Code\CSharpApps\TokenbasedAuthenticationV1\TokenbasedAuthenticationV1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Amit Mazumder\Desktop\Code\CSharpApps\TokenbasedAuthenticationV1\TokenbasedAuthenticationV1\bin\Autofac.dll
+C:\Users\Amit Mazumder\Desktop\Code\CSharpApps\TokenbasedAuthenticationV1\TokenbasedAuthenticationV1\bin\Autofac.Integration.WebApi.dll
+C:\Users\Amit Mazumder\Desktop\Code\CSharpApps\TokenbasedAuthenticationV1\TokenbasedAuthenticationV1\bin\Models.dll
+C:\Users\Amit Mazumder\Desktop\Code\CSharpApps\TokenbasedAuthenticationV1\TokenbasedAuthenticationV1\bin\Service.dll
+C:\Users\Amit Mazumder\Desktop\Code\CSharpApps\TokenbasedAuthenticationV1\TokenbasedAuthenticationV1\bin\Models.pdb
+C:\Users\Amit Mazumder\Desktop\Code\CSharpApps\TokenbasedAuthenticationV1\TokenbasedAuthenticationV1\bin\Service.pdb
+C:\Users\Amit Mazumder\Desktop\Code\CSharpApps\TokenbasedAuthenticationV1\TokenbasedAuthenticationV1\bin\Autofac.xml
+C:\Users\Amit Mazumder\Desktop\Code\CSharpApps\TokenbasedAuthenticationV1\TokenbasedAuthenticationV1\bin\Autofac.Integration.WebApi.pdb
+C:\Users\Amit Mazumder\Desktop\Code\CSharpApps\TokenbasedAuthenticationV1\TokenbasedAuthenticationV1\bin\Autofac.Integration.WebApi.xml

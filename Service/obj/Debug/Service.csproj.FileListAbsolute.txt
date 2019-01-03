@@ -1,0 +1,6 @@
+C:\Users\Amit Mazumder\Desktop\Code\CSharpApps\TokenbasedAuthenticationV1\Service\bin\Debug\Service.dll
+C:\Users\Amit Mazumder\Desktop\Code\CSharpApps\TokenbasedAuthenticationV1\Service\bin\Debug\Service.pdb
+C:\Users\Amit Mazumder\Desktop\Code\CSharpApps\TokenbasedAuthenticationV1\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\Users\Amit Mazumder\Desktop\Code\CSharpApps\TokenbasedAuthenticationV1\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\Amit Mazumder\Desktop\Code\CSharpApps\TokenbasedAuthenticationV1\Service\obj\Debug\Service.dll
+C:\Users\Amit Mazumder\Desktop\Code\CSharpApps\TokenbasedAuthenticationV1\Service\obj\Debug\Service.pdb
